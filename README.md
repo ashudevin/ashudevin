@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" height="300" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashudevin&label=Profile%20views&color=0e75b6&style=flat" alt="ashudevin" /> </p>
-
 - 🔭 I’m currently working on **Plant Disease Detection System**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
