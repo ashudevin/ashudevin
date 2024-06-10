@@ -3,7 +3,9 @@
 
 <img align="right" alt="coding" width="400" height="300" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
-- 🔭 I’m currently working on **Plant Disease Detection DL Project**
+- 🔭 I’m currently working on **Poland Data Analysis Project**
+  
+- 🔍 Searcing for a **Data Analytics Job/Internship**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
