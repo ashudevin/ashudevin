@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Poland Data Analysis Project**
   
-- 🔍 Searcing for a **Data Analytics Job/Internship**
+- 🔍 Searching for a **Data Analytics Job/Internship**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 Learning **AI, Machine Learning, Deep Learning**
 
 - 📫 Reach me at **dpashu2903@gmail.com**
 
