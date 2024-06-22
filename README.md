@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Poland Data Analysis Project**
   
-- 🔍 Searching for a **Data Analytics Job/Internship**
+- 🔍 Searching for a **Data Science & Analytics Job/Internship**
 
 - 🌱 Learning **AI, Machine Learning, Deep Learning**
 
