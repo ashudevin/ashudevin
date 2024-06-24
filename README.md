@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" height="300" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
-- 🔭 I’m currently working on **Poland Data Analysis Project**
   
 - 🔍 Searching for a **Data Science & Analytics Job/Internship**
 
