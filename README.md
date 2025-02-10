@@ -6,7 +6,7 @@
   
 - 🔍 Searching for a **Data Science or a MERN Stack Job**
 
-- 🌱 Learning **AI, MERN, Machine Learning, Deep Learning**
+- 🌱 Learning **AI, Machine Learning, Deep Learning, MERN**
 
 - 📫 Reach me at **dpashu2903@gmail.com**
 
