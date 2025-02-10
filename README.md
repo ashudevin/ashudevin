@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" height="300" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
   
-- 🔍 Searching for a **Data Science & Analytics Job/Internship**
+- 🔍 Searching for a **Data Science or a MERN Stack Job**
 
-- 🌱 Learning **AI, Machine Learning, Deep Learning**
+- 🌱 Learning **AI, MERN, Machine Learning, Deep Learning**
 
 - 📫 Reach me at **dpashu2903@gmail.com**
 
