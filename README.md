@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
-<h3 align="center">A passionate data science student from India</h3>
+<h3 align="center">A passionate Data Science & MERN student from India</h3>
 
 <img align="right" alt="coding" width="400" height="300" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
